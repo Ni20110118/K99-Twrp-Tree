@@ -39,4 +39,3 @@
 /mnt/vendor          ext4     /dev/block/platform/soc/soc:ap-ahb/20600000.sdio/by-name/prodnv            flags=display=vendor
 /socko               ext4     /dev/block/platform/soc/soc:ap-ahb/20600000.sdio/by-name/socko             flags=display=socko
 /odmko               ext4     /dev/block/platform/soc/soc:ap-ahb/20600000.sdio/by-name/odmko             flags=display=odmko
-/storage/sdcard0     vfat     /dev/block/platform/soc/soc:ap-ahb/20300000.sdio/mmcblk1p1                 flags=display=sdcard0
